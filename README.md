@@ -1,21 +1,16 @@
-######## Program-life-planning
+＃计划
 
-# 程序人生计划
+＃iOS
 
-######## iOS
+###### Object-C
 
-# Object-C
-
-
-# Swift
+###### Swift
 
 
-######## Python
+# Python
 
 
-
-
-######## Java
+# Java
 
 Java基础课程内容涉及：Java开发介绍、Java数组、Java面向对象、常用基础类、集合、IO流、多线程、异常、网络、反射。
 Java
