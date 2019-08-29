@@ -1,4 +1,4 @@
-# Plan
+# planning
 
 ## IOS
 
