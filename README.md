@@ -7,11 +7,6 @@
 ###### Swift
 
 
-## Python - 学习计划中
-
-## Html5 - 学习计划中
-
-## Android - 学习计划中
 
 ## Java - 学习中
 
@@ -23,4 +18,13 @@
 ###### Java框架课程内容涉及：Maven、Hibernate、Spring、Spring MVC、MyBatis、WebService、SVN、Activiti。
 
 ###### Java + 云数据课程主要涉及的内容包含：Linux、FastDFS、MySQL优化、Nginx反向代理、Quartz 作业调度、Redis 高性能(Key-Value)数据库、Shiro 安全(权限)框架、Lucene&Solr全文检索、Zookeeper 分布式系统、MyCAT 大数据集群、Dubbo实现分布式架构、ActiveMQ 消息队列、分布式事务和单点登录、分布式框架原理(采用视频资料教学)、基于SpringMVC的集成单元测试MockMVC、SpringBoot 快速构建JavaEE项目。
+
+
+## Python - 学习计划中
+
+## Html5 - 学习计划中
+
+## Android - 学习计划中
+
+
 
